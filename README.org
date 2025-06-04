@@ -1,5 +1,5 @@
 * query-replace-by-example
 
-This is a package to save a few keystrokes whe replacing stuff. Please
+This is a package to save a few keystrokes when replacing stuff. Please
 see the comment section at the top of query-replace-by-example.el for
 further documentation.
